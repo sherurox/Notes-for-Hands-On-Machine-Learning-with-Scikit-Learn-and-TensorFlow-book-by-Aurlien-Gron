@@ -630,10 +630,4 @@ Unsupervised Learning
 
 ---
 
-## Future Additions
-
-If I build mini-projects for exercises, I'll link them from this README later (with code, datasets, and results).
-
----
-
 **Made by [Shreyas Khandale](https://github.com/shreyaskhandale)**
